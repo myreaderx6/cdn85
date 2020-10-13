@@ -1,0 +1,2112 @@
+<!DOCTYPE html>
+<html lang="sv" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+
+    <meta charset="utf-8" />
+<script>var dataLayer = [{"drupalLanguage":"sv","drupalCountry":"SE","siteName":"RISE","entityType":"node","entityBundle":"startpage","entityId":"299","entityTitle":"Med omsorg f\u00f6r varandras h\u00e4lsa","entityLangcode":"sv","userUid":0}];</script>
+<meta name="title" content="Svensk forskning för hållbar tillväxt| RISE" />
+<meta property="og:site_name" content="RISE" />
+<link rel="shortlink" href="https://www.ri.se/sv" />
+<link rel="canonical" href="https://www.ri.se/sv" />
+<meta name="description" content="RISE är ett statligt forskningsinstitut som samverkar med akademi, näringsliv och samhälle i det svenska innovationssystemet. Välkommen till RISE!" />
+<meta property="og:url" content="https://www.ri.se/sv" />
+<meta property="og:title" content="RISE" />
+<meta property="og:image" content="https://www.ri.se/sites/default/files/styles/full_width/public/2020/09/juliane-liebermann-G8gzkaqTqOA-unsplash_1600x1000.jpg" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable: yes" />
+<link rel="alternate" hreflang="sv" href="https://www.ri.se/sv/med-omsorg-for-varandras-halsa" />
+<link rel="alternate" hreflang="en" href="https://www.ri.se/en/caring-for-each-others-health" />
+<link rel="revision" href="https://www.ri.se/sv/med-omsorg-for-varandras-halsa" />
+
+    <!-- Anti-flicker snippet (recommended) -->
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'OPT-TDBPWP8':true});</script>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-126243128-1', 'auto');
+    ga('require', 'OPT-TDBPWP8');
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-T5ZVNZF');</script>
+    <!-- End Google Tag Manager -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#b2bb1e">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable: yes">
+    
+    <title>Svensk forskning för hållbar tillväxt| RISE</title>
+
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_YajqyxLL3V6_3iyAOoEp8KeqLHjZao2oZ-aVePo2mBE.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XjdT0uwhfVDAbL487joWYYACIY9JC10mBWu9t9uunMM.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_i6oaghhT8LWC3BWIzJbXAU4A1MIIpCPAqsE2GEetP_g.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_7kc9VD6uuK7kYV0YiiwFe72xueIu_AITZzZqhAQTkV0.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous" rel="stylesheet">
+  </head>
+  <body class="node-299 path-frontpage page-node-type-startpage">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5ZVNZF"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <a href="#main-content" class="visually-hidden focusable">
+      Hoppa till huvudinnehåll
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  
+<header class="Site-header is-startpage">
+	<div class="l-container">
+		<div class="l-span-A12">
+			<a href="https://www.ri.se/sv" class="logo" title="Hem" rel="home">
+				<img src="/themes/rise/dist/images/rise-logo-white-front.svg" alt="Hem">
+			</a>
+
+			<ul class="navigation-links l-show-on-mobile">
+				<li class="icon-menu">
+					<a href="#block-mainnavigation-mobile">
+						<i class="fas fa-bars"></i><span>Open mobile menu</span>
+					</a>
+				</li>
+			</ul>
+
+				<div class="language-switcher-language-url" id="block-languageswitcher" role="navigation">
+            <ul class="links"><li hreflang="sv" data-drupal-link-query="{&quot;refdom&quot;:&quot;sics.se&quot;}" data-drupal-link-system-path="&lt;front&gt;" class="sv is-active"><a href="/sv?refdom=sics.se" class="language-link is-active" hreflang="sv" data-drupal-link-query="{&quot;refdom&quot;:&quot;sics.se&quot;}" data-drupal-link-system-path="&lt;front&gt;">SV</a></li><li hreflang="en" data-drupal-link-query="{&quot;refdom&quot;:&quot;sics.se&quot;}" data-drupal-link-system-path="&lt;front&gt;" class="en"><a href="/en?refdom=sics.se" class="language-link" hreflang="en" data-drupal-link-query="{&quot;refdom&quot;:&quot;sics.se&quot;}" data-drupal-link-system-path="&lt;front&gt;">EN</a></li></ul>
+    </div>
+<div id="block-rise-main-menu">
+            
+              <ul class="navigation-links">
+              
+      <li>
+        <a href="/sv/vi-erbjuder" data-drupal-link-system-path="node/3218">Vi erbjuder</a>
+              </li>
+          
+      <li>
+        <a href="/sv/branscher" title="Branscher" data-drupal-link-system-path="node/13793">Branscher</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise" data-drupal-link-system-path="node/11947">Om RISE</a>
+              </li>
+          
+      <li>
+        <a href="/sv/jobba-hos-oss" title="Jobba hos oss" data-drupal-link-system-path="node/11948">Jobba hos oss</a>
+              </li>
+          
+      <li>
+        <a href="/sv/press" data-drupal-link-system-path="node/3346">Press</a>
+              </li>
+          
+      <li>
+        <a href="/sv/kund-och-teamwebbplatser" data-drupal-link-system-path="node/7673">Logga in</a>
+              </li>
+          
+      <li>
+        <a href="/sv/sok" data-drupal-link-system-path="full-search">Sök</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+				
+			<div class="search-link__header l-show-on-mobile">
+									<a href="/sv/sok">Sök</a>
+							</div>
+
+  		</div>
+	</div>
+</header>
+
+<div class="Site-header-print">
+	<div class="l-container">
+		<div class="l-span-A12">
+			<img src="/themes/rise/dist/images/rise-logo.svg" alt="RISE logo">
+  		</div>
+	</div>
+</div>
+
+
+
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+  <main>
+    <a id="main-content" tabindex="-1"></a>
+      <div id="block-rise-content">
+  
+    
+      
+
+
+
+  <style>
+        .Section-start-header {
+      background-image: url('/sites/default/files/styles/full_width/public/2020/09/juliane-liebermann-G8gzkaqTqOA-unsplash_1600x1000.jpg');
+    }
+          </style>
+<article about="/sv/med-omsorg-for-varandras-halsa" class="is-startpage">
+
+  <div class="Section-start-header">
+
+    <div class="l-container">
+      <div class="Page-content l-span-A12 l-span-B10 l-pre-B1 l-span-C8 l-pre-C2">
+        
+        <h1><span>Med omsorg för varandras hälsa</span>
+</h1>
+        
+        <div class="Styled-form">
+          
+
+<form class="search-block-form" data-drupal-selector="search-block-form" action="/full-search" method="get" id="search-block-form" accept-charset="UTF-8">
+  <span class="search-prefix">Berätta om</span><div class="js-form-item form-item js-form-type-search form-item-q js-form-item-q form-no-label">
+      <label for="edit-q" class="visually-hidden">Sök</label>
+        <input title="Ange de termer du vill söka efter." class="random-search-phrace-form form-search" data-drupal-selector="edit-q" type="search" id="edit-q" name="q" value="hälsa" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Sök" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+
+        </div>
+        <a href="#content" class="arrow-hero"><span>Scroll to content</span></a>
+      </div>
+    </div>
+    <a id="content"></a>
+  </div>
+
+  
+
+
+  <div class="Paragraph-block c-bg-nobg">
+    
+
+    
+    <div class="l-container promo-wrapper">
+      <div class="">
+            
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/stod-till-foretag-och-samhalle-under-pandemin-hur-kan-vi-hjalpa-dig-promo-enkel-sida" class="c-bg_2 has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/rise-stottar-svenskt-naringsliv-och-samhalle-hur-kan-vi-hjalpa-dig">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/03/steven-erixon-unsplash_duoton.jpg?h=2aa300aa');"></div>
+
+
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Stöd till företag och samhälle under pandemin - hur kan vi hjälpa dig?
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+                                  <div class="l-span-B6 l-no-padding">
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/snabb-kontroll-av-personlig-skyddsutrustning-promo-enkel-sida" class="c- has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/snabbspar-godkannande-av-skyddsutrustning">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/03/medical%20face%20mask_duoton.jpg?h=eca34813');"></div>
+
+
+    
+        <div class="category">
+      Tjänst
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Snabbspår för kontroll av personlig skydds­utrustning
+        </h3>
+      
+      
+              <span class="button color_ghost">Testa din produkt</span>
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+
+
+  
+      
+  
+      <div  about="/sv/radgivning-kring-skyddsutrustning-promo-enkel-sida" class="c-bg_5 item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/radgivning-kring-skyddsutrustning-och-produktionsomstallning">
+  
+        <div class="bg"></div>
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Rådgivning kring skyddsutrustning och omställning av produktion
+        </h3>
+      
+      
+              <span class="button color_ghost">Boka rådgivning</span>
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+
+
+  
+      
+  
+      <div  about="/sv/stod-till-sma-och-medelstora-foretag-i-kristider-promo-berattelse" class="c-bg_2 item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/stod-till-sma-och-medelstora-foretag-under-coronapandemin">
+  
+        <div class="bg"></div>
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Stöd till små- och medelstora företag i kristider
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/serumpanelen-promo-enkel-sida" class="c-bg_5 has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/serumpanel">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/04/coronavirus_rosa.png?h=55aab86c');"></div>
+
+
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Vi testar tillförlitligheten hos snabbtester för covid-19
+        </h3>
+      
+      
+              <span class="button color_ghost">Delta i serumpanelen</span>
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                                              </div>
+      
+      
+      </div>
+    </div>
+
+  </div>
+
+
+
+  <div class="Paragraph-block c-bg-nobg">
+    
+
+    
+    <div class="l-container promo-wrapper">
+      <div class="">
+            
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+        
+      <div  about="/sv/nu-ar-tid-att-tanka-nytt-promo-berattelse" class="c- has-background-image item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/nu-ar-tid-att-tanka-nytt">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/08/Sunrise-duoton_ritat_1.jpg?h=6df96a11');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Nu är tid att tänka nytt
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+        
+      <div  about="/sv/kan-analys-av-avloppsvatten-ge-oss-en-karta-over-coronavirusets-spridning-promo-berattelse" class="c-bg_5 has-background-image item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/avloppsvatten-avslojar-narkotikaanvandning">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/05/Vattenanalys.jpg?h=2aa300aa');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Kan analys av avloppsvatten ge oss en karta över coronavirusets spridning?
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+        
+      <div  about="/sv/digitala-revisioner-gor-att-kunderna-inte-star-utan-certifikat-promo-berattelse" class="c-bg_3 has-background-image item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/digitala-revisioner-gor-att-kunderna-inte-star-utan-certifikat">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/04/Digital-revision.jpg?h=6d0b70e3');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Digitala revisioner gör att kunderna inte står utan certifikat
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+        
+      <div  about="/sv/skola-hemma-ger-stod-undervisning-hemifran-promo-berattelse" class="c-bg_6 has-background-image item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/skola-hemma-ger-stod-undervisning-hemifran">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/03/Skola-hemma_duoton.jpg?h=854a7be2');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Skola hemma ger stöd för undervisning hemifrån
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                              
+      
+      </div>
+    </div>
+
+  </div>
+
+
+
+  <div class="Paragraph-block c-bg-nobg">
+    
+
+    
+    <div class="l-container promo-wrapper">
+      <div class="">
+            
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/rise-riktlinjer-hantering-av-coronaviruset-promo-information" class="c-bg_2 has-background-image item l-span-A12 has-image-beside">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/rise-riktlinjer-coronavirus">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/03/person-washing-his-hand-545014_duoton.jpg?h=eca34813');"></div>
+
+
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Så hanterar vi viruset
+        </h3>
+      
+            <p><p>Vi följer myndigheternas rekommendationer och uppdaterar kontinuerligt våra interna riktlinjer efter dessa. Samma riktlinjer gäller för kunder och leverantörer i fysiska möten med oss. </p>
+
+<p><a class="button" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b292423c-4c06-46d9-b4f8-c729f4cff55d" href="/sv/rise-riktlinjer-coronavirus">Läs våra riktlinjer</a></p></p>
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                              
+      
+      </div>
+    </div>
+
+  </div>
+
+
+
+  <div class="Paragraph-block c-bg-nobg">
+    
+
+    
+    <div class="l-container promo-wrapper">
+      <div class="">
+            
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/vi-byter-affarssystem-promo-enkel-sida" class="c-bg_4 has-background-image item l-span-A12 has-image-beside">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/vi-byter-affarssystem">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/09/business-system-red.jpg?h=a40d12e3');"></div>
+
+
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Vi byter affärssystem
+        </h3>
+      
+            <p><p>I månadsskiftet september/oktober går vi över till ett nytt affärssystem. Vårt systemstöd kommer då att vara begränsat under ett par veckor. Vi gör vårt bästa för att det inte ska påverka dig som kund eller leverantör.</p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a7755a4f-a66b-4a69-a1c5-01da5774b5c6" href="/sv/vi-byter-affarssystem">Läs mer om vem du vänder dig  till om du har frågor</a></p></p>
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                              
+      
+      </div>
+    </div>
+
+  </div>
+
+
+
+  <div class="Paragraph-block c-bg-nobg">
+    
+
+        <div class="l-container">
+      <div class="l-span-A12 l-no-vert-padding">
+      	<h2><span>I fokus: hälsa</span></h2>
+      </div>
+    </div>
+    
+    <div class="l-container promo-wrapper">
+      <div class="">
+            
+                
+          
+          
+          
+          
+                                  <div class="l-span-B6 l-no-padding">
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/artificiell-intelligens-minskar-lidande-canceroverlevare-promo-berattelse" class="c-bg_3 has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/artificiell-intelligens-minskar-lidande-canceroverlevare">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2019/03/barncancer-ai.jpg?h=912c21bf');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          AI minskar lidande för canceröverlevare
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/rymdresa-hjalper-barn-vid-mr-skanning-promo" class="c-bg_5 has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/rymdresa-hjalper-barn-vid-mr-skanning">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/09/MR-1410-8018-ingenia_2000x1333-duoton.jpg?h=56d0ca2e');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Rymdresa hjälper barn vid MR-skanning
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/nervstimulans-kan-ge-skadade-kansel-tillbaka-snabbare-promo-berattelse" class="c-bg_2 has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/nervstimulans-kan-ge-skadade-kansel-tillbaka-snabbare">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2019/09/nervregenerering-tryckt-elektronik.jpg?h=a7415b3b');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Nervstimulans kan ge skadade känsel tillbaka snabbare
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/guide-till-lakemedelsutveckling-fran-ide-till-patient-promo-berattelse" class="c- has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/guide-till-lakemedelsutveckling-fran-ide-till-patient">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2019/11/Resurs-2%404x.png?h=b8214798');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Från idé till patient – guide till läke­medels­­utveckling  
+        </h3>
+      
+      
+      
+    </div>
+
+        <div class="overlay">
+      <p> </p>
+
+<p> </p>
+    </div>
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+                                  </div>
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/en-portal-for-inspiration-och-samverkan-promo-berattelse" class="c-bg_2 has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/en-portal-inspiration-och-samverkan">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2020/07/digitalvard.jpg?h=6d0b70e3');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Pandemin driver på digitalisering av vård och omsorg
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                              
+      
+      </div>
+    </div>
+
+  </div>
+
+
+
+  <div class="Paragraph-block c-bg-nobg">
+    
+
+        <div class="l-container">
+      <div class="l-span-A12 l-no-vert-padding">
+      	<h2><span>VILL DU BLI EN AV OSS?</span></h2>
+      </div>
+    </div>
+    
+    <div class="l-container promo-wrapper">
+      <div class="">
+            
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/utmanande-spannande-och-kreativt-kajsa-malmberg" class="c- has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/jobba-hos-oss">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2019/05/Promo-Kajsa-Malmberg.jpg?h=00546c34');"></div>
+
+
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Utmanande, spännande och kreativt
+        </h3>
+      
+      
+              <span class="button color_ghost">Jobba hos oss</span>
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+  
+
+  
+      
+  
+      <div  about="/sv/jag-kanner-en-stark-mening-med-det-jag-gor-promo-tanja-trankle" class="c- has-background-image item l-span-A12 l-span-B6">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/berattelser/jag-kanner-en-stark-mening-med-det-jag-gor">
+  
+          
+          
+    
+    <div class="bg" style="background-image: url('/sites/default/files/styles/promo_double/public/2019/10/Tanja-Tr%C3%A4nkle-01_webb.jpg?h=2aa300aa');"></div>
+
+
+    
+        <div class="category">
+      Berättelse
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          ”Jag känner en stark mening med det jag gör”
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                              
+      
+      </div>
+    </div>
+
+  </div>
+
+
+
+  <div class="Paragraph-block c-bg-yellow">
+    
+
+    
+    <div class="l-container promo-wrapper">
+      <div class="">
+            
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+
+
+  
+        
+      <div  about="/sv/sok-bland-vara-utbildningar-promo" class="c-bg_4 item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/utbildning">
+  
+        <div class="bg"></div>
+    
+        <div class="category">
+      Utbildning
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Sök bland våra utbildningar
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+
+
+  
+        
+      <div  about="/sv/mot-oss-pa-event-promo-event" class="c-bg_1 item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/event">
+  
+        <div class="bg"></div>
+    
+        <div class="category">
+      Event
+    </div>
+    
+    <div class="text-content">
+
+              <h3>
+          Ta del av vår eventkalender
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+
+
+  
+        
+      <div  about="/sv/ta-del-av-hela-rise-erbjudande-promo-om-oss" class="c-bg_8 item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/vi-erbjuder">
+  
+        <div class="bg"></div>
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Ta del av hela RISE erbjudande: från A-Ö
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                        
+                
+          
+          
+          
+          
+          
+          
+
+
+  
+
+
+  
+        
+      <div  about="/sv/darfor-finns-rise-las-mer-om-oss-promo" class="c-bg_5 item l-span-A12 l-span-B6 l-span-C3">
+      
+
+  
+  
+    
+      <a class="promo__wrap-link with-shadow" href="/sv/om-rise">
+  
+        <div class="bg"></div>
+    
+    
+    <div class="text-content">
+
+              <h3>
+          Därför finns RISE – läs mer om oss
+        </h3>
+      
+      
+      
+    </div>
+
+    
+      </a>
+  
+</div>
+
+
+
+          
+          
+          
+          
+                              
+      
+      </div>
+    </div>
+
+  </div>
+
+
+</article>
+
+
+  </div>
+
+
+  </main>
+
+
+  <footer class="Site-footer">
+	<!-- Temporary hard coded footer, just for show -->
+	<div class="l-container">
+
+		<div class="l-span-A12 l-span-B2">
+		  <a href="/" class="branding" title="Hem" rel="home">
+		    <img src="/themes/rise/dist/images/rise-logo-white.svg" alt="Hem">
+		  </a>
+		</div>
+
+		<div class="l-span-A12 l-span-B6">
+			<div id="block-footer-address-sv">
+      <h2>RISE Research Institutes of Sweden</h2>
+
+<p>RISE är Sveriges forskningsinstitut och innovationspartner. I internationell samverkan med företag, akademi och offentlig sektor bidrar vi till ett konkurrenskraftigt näringsliv och ett hållbart samhälle. Våra 2 800 medarbetare driver och stöder alla typer av innovationsprocesser. RISE är ett oberoende, statligt forskningsinstitut som erbjuder unik expertis och ett 100-tal test- och demonstrationsmiljöer för framtidssäkra teknologier, produkter och tjänster.</p>
+
+<hr />
+<h2>Adress till RISE huvudkontor</h2>
+
+<p>Besöksadress: Lindholmspiren 7 A, 417 56 Göteborg<br />
+Postadress: Box 857, 501 15 Borås</p>
+
+<p><a href="/sv/om-rise/kontakt">Hitta till alla våra kontor</a></p>
+
+<h2>Kontakt</h2>
+
+<p><a href="tel:+46105165000">010-516 50 00</a> / <a href="mailto:info@ri.se">info@ri.se</a></p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="000f70b3-fdbb-43d6-af42-b7f16969388c" href="/node/10120">Personuppgiftsbehandling</a></p>
+
+  </div>
+
+      
+		</div>
+
+		<div class="l-span-A12 l-span-B4">
+      <div id="block-footer-follow-sv">
+      <h2>Kundwebbplatser</h2>
+
+<p><a href="https://www.ri.se/sv/kund-och-teamwebbplatser">Logga in</a></p>
+
+<p>&nbsp;</p>
+
+<h2>Följ oss</h2>
+
+<p><a href="https://twitter.com/risesweden" target="_blank"><i class="fab fa-twitter"><span>Twitter</span></i></a> <a href="https://www.facebook.com/RISEResearchInstitutesofSwedenAB/" target="_blank"><i class="fab fa-facebook"><span>Facebook</span></i></a> <a href="https://www.linkedin.com/company/rise-research-institutes-of-sweden/" target="_blank"><i class="fab fa-linkedin-in"><span>LinkedIn</span></i></a> <a href="https://www.instagram.com/risesweden/"><i class="fab fa-instagram"><span>Instagram</span></i></a></p>
+
+<p>&nbsp;</p>
+
+<p><a class="button" href="http://app.bwz.se/ri/b/v?subscribeto=55&amp;ucrc=BA0E6171" target="_blank">Prenumerera på vårt nyhetsbrev</a></p>
+
+  </div>
+
+      
+		</div>
+
+	</div>
+
+  <nav  id="block-mainnavigation-mobile">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-mobile-menu">Main navigation mobile</h2>
+  
+
+        
+              <ul class="navigation-links">
+              
+      <li class="has-children">
+        <a href="/sv/vi-erbjuder" data-drupal-link-system-path="node/3218">Vi erbjuder</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="https://www.ri.se/sv/sok?types=expertise_area">Expertiser</a>
+              </li>
+          
+      <li>
+        <a href="https://www.ri.se/sv/sok?types=standardized_service">Tjänster</a>
+              </li>
+          
+      <li>
+        <a href="https://www.ri.se/sv/sok?types=project" title="Sök bland projekt">Projekt</a>
+              </li>
+          
+      <li>
+        <a href="/sv/utbildning" title="Sök bland utbildningar" data-drupal-link-system-path="course-search">Utbildningar</a>
+              </li>
+          
+      <li>
+        <a href="/sv/event" data-drupal-link-system-path="node/13243">Event</a>
+              </li>
+          
+      <li>
+        <a href="https://www.ri.se/sv/sok?types=network">Nätverk</a>
+              </li>
+          
+      <li>
+        <a href="https://www.ri.se/sv/om-rise/vart-uppdrag/industrialisering-och-kvalitetssakring/testbaddar">Test &amp; Demo</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/expertiser/support-till-sma-och-medelstora-foretag" data-drupal-link-system-path="node/12552">Support till små och medelstora företag</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vetenskapliga-publikationer" data-drupal-link-system-path="node/3689">Vetenskapliga publikationer</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/branscher" title="Branscher" data-drupal-link-system-path="node/13793">Branscher</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/byggd-miljo" data-drupal-link-system-path="node/1026">Bygg</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/energi" data-drupal-link-system-path="node/326">Energi</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/mobilitet" data-drupal-link-system-path="node/337">Fordon</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/risk-och-sakerhet" data-drupal-link-system-path="node/1038">Försvar</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/digitalisering" data-drupal-link-system-path="node/321">IT och telekom</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/jordbruk" data-drupal-link-system-path="node/11613">Jordbruk</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/kemiska-processer-och-produkter" data-drupal-link-system-path="node/332">Kemi och process</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/life-science" data-drupal-link-system-path="node/1033">Life Science</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/livsmedel" data-drupal-link-system-path="node/1030">Livsmedel</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/massa-och-papper" data-drupal-link-system-path="node/338">Massa och papper</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/maritimt" data-drupal-link-system-path="node/1034">Sjöfart</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/textil" data-drupal-link-system-path="node/343">Textil</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/produktion-och-tillverkning" data-drupal-link-system-path="node/339">Tillverkning</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/logistik-och-transport" data-drupal-link-system-path="node/1042">Transport</a>
+              </li>
+          
+      <li>
+        <a href="/sv/vad-vi-gor/amnesomraden/livslangt-larande" data-drupal-link-system-path="node/334">Utbildning</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise" data-drupal-link-system-path="node/11947">Om RISE</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li class="has-children">
+        <a href="/sv/om-rise/vart-uppdrag" data-drupal-link-system-path="node/3004">Vårt uppdrag</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li class="has-children">
+        <a href="/sv/om-rise/vart-uppdrag/vision-och-strategi" data-drupal-link-system-path="node/2974">Vision och strategi</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/vision-och-strategi/partnerskap-innovation" data-drupal-link-system-path="node/3414">Innovationspartnerskap</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/vision-och-strategi/framtidsscenarios-och-roadmaps" data-drupal-link-system-path="node/3415">Framtidsscenarios och roadmaps</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/vision-och-strategi/innovationsstodjande-tjanster" data-drupal-link-system-path="node/3417">Innovationsstödjande tjänster</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/vart-uppdrag/forskning-och-utveckling" data-drupal-link-system-path="node/2965">Forskning och utveckling</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/forskning-och-utveckling/tillampad-forskning-innovation" data-drupal-link-system-path="node/3419">Tillämpad forskning för innovation</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/forskning-och-utveckling/tjansteinnovation-och-designprocesser" data-drupal-link-system-path="node/3420">Tjänsteinnovation och designprocesser</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/forskning-och-utveckling/utbildningar-livslangt-larande" data-drupal-link-system-path="node/3421">Utbildningar för livslångt lärande</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/forskning-och-utveckling/expertstod" data-drupal-link-system-path="node/3423">Expertstöd</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/vart-uppdrag/industrialisering-och-kvalitetssakring" data-drupal-link-system-path="node/2966">Industrialisering och kvalitetssäkring</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/industrialisering-och-kvalitetssakring/testbaddar" data-drupal-link-system-path="node/3425">Testbäddar</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vart-uppdrag/industrialisering-och-kvalitetssakring/certifiering-kalibrering-och-besiktning" data-drupal-link-system-path="node/3426">Certifiering, kalibrering och besiktning</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/vision-och-mission" data-drupal-link-system-path="node/3396">Vision och mission</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/vision-och-mission/vara-mal" data-drupal-link-system-path="node/3395">Våra mål</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vision-och-mission/vardegrund" data-drupal-link-system-path="node/3398">Värdegrund</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/rise-forskningsstrategi" data-drupal-link-system-path="node/13758">RISE forskningsstrategi</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li class="has-children">
+        <a href="/sv/om-rise/rise-forskningsstrategi/affars-och-innovationsomraden" data-drupal-link-system-path="node/13759">Affärs- och innovationsområden</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/organisation/affars-och-innovationsomraden/digitalisering" data-drupal-link-system-path="node/3016">Digitalisering</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/organisation/affars-och-innovationsomraden/aoi-energi-och-biobaserad-ekonomi" data-drupal-link-system-path="node/3017">Energi och biobaserad ekonomi</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/organisation/affars-och-innovationsomraden/halsa-och-life-science" data-drupal-link-system-path="node/3018">Hälsa och Life Science</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/organisation/affars-och-innovationsomraden/hallbara-stader-och-samhallen" data-drupal-link-system-path="node/3019">Hållbara städer och samhällen</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/organisation/affars-och-innovationsomraden/materialomstallning" data-drupal-link-system-path="node/11191">Materialomställning</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/organisation/affars-och-innovationsomraden/aoi-mobilitet" data-drupal-link-system-path="node/3020">Mobilitet</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/rise-forskningsstrategi/koncernovergripande-forskningsomraden" data-drupal-link-system-path="node/13763">Koncernövergripande forskningsområden</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/rise-forskningsstrategi/forstarkningsomraden" data-drupal-link-system-path="node/13765">Förstärkningsområden</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/hallbarhet" data-drupal-link-system-path="node/3007">Hållbarhet</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li class="has-children">
+        <a href="/sv/om-rise/hallbarhet/vart-hallbarhetsarbete" data-drupal-link-system-path="node/3057">Vårt hållbarhetsarbete</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/hallbarhet/vart-hallbarhetsarbete/hallbarhetsmal" data-drupal-link-system-path="node/3008">Hållbarhetsmål</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/hallbarhet/uppforandekod" data-drupal-link-system-path="node/3052">Uppförandekod</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/hallbarhet/visselblasartjanst" data-drupal-link-system-path="node/7470">Visselblåsartjänst</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/kvalitetssakring" data-drupal-link-system-path="node/8047">Kvalitetssäkring</a>
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/organisation" data-drupal-link-system-path="node/3012">Organisation</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/organisation/koncernledning" data-drupal-link-system-path="node/3013">Koncernledning</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/organisation/divisioner" data-drupal-link-system-path="node/3014">Divisioner</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/bolagsstyrning" data-drupal-link-system-path="node/3021">Bolagsstyrning</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/bolagsstyrning/bolagsstyrningsrapporter" data-drupal-link-system-path="node/3022">Bolagsstyrningsrapporter</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/bolagsstyrning/bolagsstamma" data-drupal-link-system-path="node/3031">Bolagsstämma</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/bolagsstyrning/bolagsordning" data-drupal-link-system-path="node/3217">Bolagsordning</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/bolagsstyrning/styrelse-och-revisor" data-drupal-link-system-path="node/3032">Styrelse och revisor</a>
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/bolagsstyrning/finansiering" data-drupal-link-system-path="node/3034">Finansiering</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/bolagsstyrning/finansiering/finansieringssystem" data-drupal-link-system-path="node/3035">Finansieringssystem</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/bolagsstyrning/finansiering/effektmatning" data-drupal-link-system-path="node/3036">Effektmätning</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/bolagsstyrning/forskningsrad" data-drupal-link-system-path="node/3037">Forskningsråd</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/finansiell-kommunikation" data-drupal-link-system-path="node/3039">Finansiell kommunikation</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/finansiell-kommunikation/finansiella-rapporter" data-drupal-link-system-path="node/3040">Finansiella rapporter</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/policydokument" data-drupal-link-system-path="node/7419">Policydokument</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/hallbarhet/informationssakerhetspolicy" data-drupal-link-system-path="node/3058">In­formations­säkerhets­policy</a>
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling" data-drupal-link-system-path="node/10120">Personuppgiftsbehandling</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/behandling-av-kunders-och-affarskontakters" data-drupal-link-system-path="node/9710">Kunder</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/behandling-av-forskningsdeltagares-personuppgifter" data-drupal-link-system-path="node/9713">Forsknings­deltagare</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/behandling-av-natverksmedlemmars-personuppgifter" data-drupal-link-system-path="node/9631">Nätverksmedlemmar</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/behandling-av-besokares-personuppgifter" data-drupal-link-system-path="node/9707">Besökare</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/behandling-av-leverantorers-personuppgifter" data-drupal-link-system-path="node/9711">Leverantörer</a>
+              </li>
+          
+      <li>
+        <a href="/sv/behandling-av-personuppgifter-marknadsforing" data-drupal-link-system-path="node/8686">Marknadsföring</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/behandling-av-medarbetares-personuppgifter" data-drupal-link-system-path="node/10121">Medarbetare</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/rekrytering" data-drupal-link-system-path="node/12846">Rekrytering</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/policydokument/personuppgiftsbehandling/kandidatdatabas" data-drupal-link-system-path="node/12845">Kandidatdatabas</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/vetenskapliga-publikationer" title="Vetenskapliga publikationer" data-drupal-link-system-path="node/3689">Vetenskapliga publikationer</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/rapporter-och-remisser" data-drupal-link-system-path="node/3041">Rapporter och remisser</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/rise-historia" data-drupal-link-system-path="node/3010">Historia</a>
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/om-rise/kontakt" data-drupal-link-system-path="node/2995">Kontakt</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="https://www.ri.se/en/search?types=profile&amp;sort=ao">Våra medarbetare</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/kontakt/klagomal" data-drupal-link-system-path="node/7973">Klagomålshantering</a>
+              </li>
+          
+      <li>
+        <a href="/sv/om-rise/kontakt/digital-signering" data-drupal-link-system-path="node/9173">Digital signering</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/jobba-hos-oss" title="Jobba hos oss" data-drupal-link-system-path="node/11948">Jobba hos oss</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li class="has-children">
+        <a href="/sv/jobba-hos-oss/lediga-jobb" data-drupal-link-system-path="node/11167">Lediga jobb</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/jobba-hos-oss/lediga-jobb/spontanansokan" data-drupal-link-system-path="node/12821">Spontanansökan</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/jobba-hos-oss/livet-pa-rise" data-drupal-link-system-path="node/4510">Livet på RISE</a>
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/jobba-hos-oss/vi-gillar-studenter" data-drupal-link-system-path="node/3282">Vi gillar studenter</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/jobba-hos-oss/vi-gillar-studenter/intresseanmalan-exjobb" data-drupal-link-system-path="node/12646">Intresseanmälan för exjobb</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/jobba-hos-oss/var-rekryteringsprocess" data-drupal-link-system-path="node/1025">Vår rekryteringsprocess</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="has-children">
+        <a href="/sv/press" data-drupal-link-system-path="node/3346">Press</a>
+                  <a href="#" class="expand">+</a>
+                        <ul>
+              
+      <li>
+        <a href="/sv/press/pressbilder" data-drupal-link-system-path="node/3354">Pressbilder</a>
+              </li>
+          
+      <li>
+        <a href="/sv/press/presskontakt" data-drupal-link-system-path="node/3544">Presskontakt</a>
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li>
+        <a href="/sv/kund-och-teamwebbplatser" data-drupal-link-system-path="node/7673">Logga in</a>
+              </li>
+          
+      <li>
+        <a href="/sv/sok" data-drupal-link-system-path="full-search">Sök</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+</footer>
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"sv\/","currentPath":"node\/299","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"sv","currentQuery":{"refdom":"sics.se"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"core\/html5shiv,datalayer\/behaviors,eu_cookie_compliance\/eu_cookie_compliance_bare,paragraphs\/drupal.paragraphs.unpublished,rise\/global,rise\/mmenu,rise\/sanitize,rise_core\/visitor-ip,system\/base","theme":"rise","theme_token":null},"ajaxTrustedUrl":{"\/full-search":true},"dataLayer":{"defaultLang":"sv","languages":{"sv":{"id":"sv","name":"Svenska","direction":"ltr","weight":-10},"en":{"id":"en","name":"Engelska","direction":"ltr","weight":-9}}},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022l-container\u0022\u003E\n    \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n      \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n        \u003Cp\u003EVi anv\u00e4nder cookies f\u00f6r att f\u00f6rb\u00e4ttra din upplevelse p\u00e5 ri.se. Genom att klicka p\u00e5 \u201dJag accepterar\u201d samtycker du till det. \u003Ca href=\u0022\/sv\/node\/3576\u0022\u003EL\u00e4s mer om cookies\u003C\/a\u003E\u003C\/p\u003E\n      \u003C\/div\u003E\n      \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n        \u003Cbutton type=\u0022button\u0022 class=\u0022button agree-button eu-cookie-compliance-secondary-button\u0022\u003EJag accepterar\u003C\/button\u003E\n      \u003C\/div\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022l-container\u0022\u003E\n    \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n      \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n        \u003Cp\u003EVi anv\u00e4nder cookies f\u00f6r att f\u00f6rb\u00e4ttra din upplevelse p\u00e5 ri.se. Genom att klicka p\u00e5 \u201dJag accepterar\u201d samtycker du till det. \u003Ca href=\u0022\/sv\/node\/3576\u0022\u003EL\u00e4s mer om cookies\u003C\/a\u003E\u003C\/p\u003E\n      \u003C\/div\u003E\n      \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n        \u003Cbutton type=\u0022button\u0022 class=\u0022button agree-button eu-cookie-compliance-secondary-button\u0022\u003EJag accepterar\u003C\/button\u003E\n      \u003C\/div\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/sv\/kakor","popup_link_new_window":false,"popup_position":false,"fixed_top_position":true,"popup_language":"sv","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"opt_in","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false},"user":{"uid":0,"permissionsHash":"6a37d32a9d6537f279cee960843ee1362f577e351bd0c148bce6a8ebce927605"}}</script>
+<script src="/sites/default/files/js/js_80FKUOvaSAp9a4mjv2bsE19KyNCS1OlilSM0t4MR-0k.js"></script>
+<script src="/sites/default/files/js/js_yKTdxsAjx26Cb9HeHTFsnG6d3qCJ01xhjD4AKsi7iHE.js"></script>
+
+
+  </body>
+</html>
